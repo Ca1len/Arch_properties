@@ -42,5 +42,5 @@ fi
 # start some nice programs
 picom -f &
 xsetroot -cursor_name left_ptr
-exec bspwm
+exec i3
 
